@@ -2,7 +2,7 @@
 Script untuk auto claiming @waveonsuibot
 
 <p align="center">
-<img src="assets/screenshot.jpg" width="50%">
+<img src="assets/screenshot.jpg" width="30%">
 <p>
 
 ## installation
